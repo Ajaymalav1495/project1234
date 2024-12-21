@@ -1,6 +1,4 @@
 streamlit
 pandas
-matplotlip
-seaborn
-seaborn
-streamlit-option-men
+Pillow 
+plotly
